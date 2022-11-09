@@ -330,7 +330,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 #from surprise import SVD,Reader,Dataset
 import matplotlib.patches as mpatches
 import plotly.tools as tls
-from mpl_toolkits.basemap import Basemap
 import folium
 import folium.plugins
 from matplotlib import animation,rc
