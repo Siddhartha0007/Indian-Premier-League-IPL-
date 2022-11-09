@@ -322,7 +322,6 @@ import requests
 import json
 from sklearn.preprocessing import MinMaxScaler
 from PIL import Image
-from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import sigmoid_kernel
 from scipy.sparse import csr_matrix
